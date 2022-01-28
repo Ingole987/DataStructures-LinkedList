@@ -1,1 +1,1 @@
-# DataStructurs-LinkedList
+# DataStructures-LinkedList
