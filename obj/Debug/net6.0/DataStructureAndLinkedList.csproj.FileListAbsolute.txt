@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\DataStructureAndLinkedList\bin\Debug\net6.0\DataStructureAndLinkedList.exe
+C:\Users\prati\source\repos\DataStructureAndLinkedList\bin\Debug\net6.0\DataStructureAndLinkedList.deps.json
+C:\Users\prati\source\repos\DataStructureAndLinkedList\bin\Debug\net6.0\DataStructureAndLinkedList.runtimeconfig.json
+C:\Users\prati\source\repos\DataStructureAndLinkedList\bin\Debug\net6.0\DataStructureAndLinkedList.dll
+C:\Users\prati\source\repos\DataStructureAndLinkedList\bin\Debug\net6.0\ref\DataStructureAndLinkedList.dll
+C:\Users\prati\source\repos\DataStructureAndLinkedList\bin\Debug\net6.0\DataStructureAndLinkedList.pdb
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.AssemblyInfo.cs
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.dll
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\ref\DataStructureAndLinkedList.dll
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.pdb
+C:\Users\prati\source\repos\DataStructureAndLinkedList\obj\Debug\net6.0\DataStructureAndLinkedList.genruntimeconfig.cache
